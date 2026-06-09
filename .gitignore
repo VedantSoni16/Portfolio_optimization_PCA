@@ -1,0 +1,18 @@
+# Python bytecode and cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE Configuration files
+.vscode/
+.idea/
+
+# Local Quantitative Data (Ignore data files to keep the repo clean)
+data/
