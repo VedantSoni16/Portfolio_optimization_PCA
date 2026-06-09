@@ -56,7 +56,7 @@ Flattens out the broad market's rising tide to showcase the pure, risk-adjusted 
 
 ## 🔑 Crucial Quantitative Takeaways
 
-1. **The Quant Paradox (GMV Dominance)**: The strategy that completely ignored return forecasting (**Global Minimum Variance**) was the undisputed risk-adjusted winner of the out-of-sample trial, securing a **Sharpe Ratio of 1.6496** and an **Annualized Alpha of 4.17%**. By eliminating return estimation errors, it navigated market corrections smoothly.
+1. **GMV Dominance**: The strategy that completely ignored return forecasting (**Global Minimum Variance**) was the undisputed risk-adjusted winner of the out-of-sample trial, securing a **Sharpe Ratio of 1.6496** and an **Annualized Alpha of 4.17%**. By eliminating return estimation errors, it navigated market corrections smoothly.
 2. **The Overfitting Trap of Max Sharpe**: Despite advanced Ledoit-Wolf and James-Stein shrinkage modifications, the aggressive concentration tendencies of MVO caused it to hit the 10% maximum constraint boundary on old historical winners. This concentration backfired during the early 2023 regime break, generating the deepest drawdown (**-18.20%**) and underperforming the basic Equal Weight baseline on a risk-adjusted basis.
 3. **PCA and Hidden Beta Loading**: The 12-component PCA model successfully matched the raw absolute returns of the index but carried a high systematic market sensitivity (**Beta of 1.09**). Through the lens of CAPM, this added risk resulted in a negative risk-adjusted alpha (**-1.87%**), showing that it operated as an unhedged leverage play on broad market factors rather than a source of unique stock alpha.
 
